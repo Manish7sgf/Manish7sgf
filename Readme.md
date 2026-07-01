@@ -141,47 +141,51 @@
 
 ---
 
-## 📊 GitHub Stats & Metrics
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Manish7sgf&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="180"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish7sgf&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" height="180"/>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manish7sgf&theme=radical&hide_border=true" alt="GitHub Streak" width="70%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manish7sgf&theme=radical&no-frame=true&column=7&cache_seconds=86400" alt="GitHub Trophies" width="100%"/>
+
+### 📈 Contribution Activity
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manish7sgf&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+### 🐍 Contribution Snake
+  <img src="https://raw.githubusercontent.com/Manish7sgf/Manish7sgf/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+
 </div>
 
 ---
 
-## 📈 Activity & Contribution Snake
+## 💪 GitHub Stats (Quick Overview)
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <h4>Contribution Activity</h4>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manish7sgf&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%"/>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h4>Contribution Snake</h4>
-      <img src="https://raw.githubusercontent.com/Manish7sgf/Manish7sgf/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="90%"/>
-    </td>
-  </tr>
-</table>
+| Metric | Value |
+|--------|-------|
+| 📝 Total Contributions | **57+** |
+| 🔥 Current Streak | **3 days** (Jun 29 - Jul 1) |
+| 🏆 Longest Streak | **3 days** (Jun 6 - Jun 8) |
+| ⭐ Profile Views | [![Profile Views](https://komarev.com/ghpvc/?username=Manish7sgf&label=Views&color=00d4ff&style=flat)](https://github.com/Manish7sgf) |
+
+---
+
+## 🎓 Skills & Expertise
+
+### Machine Learning & AI
+- Deep Learning (TensorFlow, PyTorch, Keras)
+- Natural Language Processing & LLMs
+- Computer Vision & Image Processing
+- Model Deployment & Optimization
+- Data Analysis & Visualization (Pandas, NumPy, Matplotlib)
+
+### Full Stack Development
+- Frontend: React, TypeScript, Tailwind CSS, Vite
+- Backend: FastAPI, Node.js, Express, NestJS
+- Databases: PostgreSQL, SQLite, MongoDB
+- DevOps: Docker, GitHub Actions, AWS
+
+### Specialized Domains
+- Medical AI & Healthcare Tech
+- 5G Network Monitoring
+- Real-time Data Pipelines
+- API Development & Integration
 
 ---
 
