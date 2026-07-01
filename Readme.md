@@ -1,34 +1,34 @@
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Manish%20Varman&fontSize=55&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=a0c4ff" width="100%"/&gt;
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200§ion=header&text=Manish%20Varman&fontSize=55&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=a0c4ff" width="100%"/>
 
-&lt;a href="https://git.io/typing-svg"&gt;
-  &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🤖+AI+%26+Data+Science+Engineer;🔥+Building+Intelligent+Systems;🚀+Open+Source+Enthusiast;💡+Turning+Data+into+Decisions" alt="Typing SVG" /&gt;
-&lt;/a&gt;
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF¢er=true&vCenter=true&multiline=true&width=700&height=100&lines=🤖+AI+%26+Data+Science+Engineer;🔥+Building+Intelligent+Systems;🚀+Open+Source+Enthusiast;💡+Turning+Data+into+Decisions" alt="Typing SVG" />
+</a>
 
-&lt;br/&gt;
+<br/>
 
-&lt;p&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=Manish7sgf&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile Views"/&gt;
-  &lt;a href="https://linkedin.com/in/manish-varman"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://leetcode.com/u/whCG56F98e/"&gt;
-    &lt;img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://portfolio-ten-kappa-52.vercel.app/"&gt;
-    &lt;img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:manishvarman5@gmail.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Manish7sgf&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://linkedin.com/in/manish-varman">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/whCG56F98e/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://portfolio-ten-kappa-52.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:manishvarman5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-&lt;/div&gt;
+</div>
 
 ---
 
-&lt;img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/&gt;
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
 
 ## 🧠 About Me
 
@@ -39,7 +39,7 @@
 - 🎯 Goal: To build products that solve real-world problems through AI
 - 📫 Reach me at **manishvarman5@gmail.com**
 
-&lt;br clear="right"/&gt;
+<br clear="right"/>
 
 ---
 
@@ -84,7 +84,7 @@
 ## 🚀 Featured Projects
 
 ### 🏥 [PneumoScan AI](https://github.com/Manish7sgf/Pneumonia-detector) — Pneumonia Detection System
-&gt; AI-powered chest X-ray analysis with ResNet50, Grad-CAM visualization, and real-time classification.
+> AI-powered chest X-ray analysis with ResNet50, Grad-CAM visualization, and real-time classification.
 
 - 🔬 **Tech:** React 18 + Vite, FastAPI, TensorFlow 2.13, ResNet50, Grad-CAM
 - ✨ **Features:** Real-time X-ray analysis, heatmap visualization, scan history, Docker deployment
@@ -93,7 +93,7 @@
 ---
 
 ### 🩺 [MediMate Pro](https://github.com/Manish7sgf/Medimate) — AI Medical Diagnosis System
-&gt; AI-powered medical diagnosis with Bio_ClinicalBERT, emergency detection, and user health history.
+> AI-powered medical diagnosis with Bio_ClinicalBERT, emergency detection, and user health history.
 
 - 🔬 **Tech:** FastAPI, PyTorch, Hugging Face Transformers, Bio_ClinicalBERT, SQLite
 - ✨ **Features:** Disease prediction, severity color-coding, JWT auth, file upload, voice input
@@ -102,7 +102,7 @@
 ---
 
 ### 🌐 [5G-NGN-Sentinel](https://github.com/Manish7sgf/5G-NGN-Sentinel) — 5G Network Monitoring
-&gt; Real-time 5G network slice monitoring with automated security audits and intelligent risk scoring.
+> Real-time 5G network slice monitoring with automated security audits and intelligent risk scoring.
 
 - 🔬 **Tech:** NestJS, React 18, PostgreSQL, TypeORM, Material-UI, Recharts
 - ✨ **Features:** Live telemetry, 5-rule audit engine, risk scoring (0-100), alert management
@@ -111,7 +111,7 @@
 ---
 
 ### 🛒 [Retail E-commerce Customer Behavior Analysis](https://github.com/Manish7sgf/Retail-E-commerce-Customer-Behavior-Analysis)
-&gt; Data-driven solution to analyze, predict, and optimize customer behavior across retail channels.
+> Data-driven solution to analyze, predict, and optimize customer behavior across retail channels.
 
 - 🔬 **Tech:** JavaScript, Data Analytics, Customer Segmentation
 - 📊 **Focus:** Transform raw interactions into strategic intelligence
@@ -119,7 +119,7 @@
 ---
 
 ### 📸 [Skytree Services](https://github.com/Manish7sgf/Skytree-Services) — Digital Services Hub
-&gt; Feature-rich web app for digital services: passport photo editor, resume builder, certificate generator, EB utilities, and payment gateway.
+> Feature-rich web app for digital services: passport photo editor, resume builder, certificate generator, EB utilities, and payment gateway.
 
 - 🔬 **Tech:** React 19, TypeScript, Vite, Express.js, Razorpay
 - ✨ **Features:** Photo studio, resume builder, certificate service, wallet & payouts, role-based access
@@ -128,7 +128,7 @@
 ---
 
 ### 🤖 [NOVA-AI](https://github.com/Manish7sgf/NOVA-AI) — Gemini API Chat Interface
-&gt; Sleek, dark-mode chat interface powered by Gemini API with multimodal input.
+> Sleek, dark-mode chat interface powered by Gemini API with multimodal input.
 
 - 🔬 **Tech:** HTML, CSS, Vanilla JavaScript, Gemini API
 - ✨ **Features:** Glowing dark UI, multimodal input, responsive design
@@ -136,97 +136,97 @@
 ---
 
 ### 🎓 [AI-Passport](https://github.com/Manish7sgf/AI-Passport)
-&gt; A living employability ecosystem — not just a course platform, but a dynamic system that measures and grows real-world readiness.
+> A living employability ecosystem — not just a course platform, but a dynamic system that measures and grows real-world readiness.
 
 ---
 
 ### 🧮 [EMI Calculator](https://github.com/Manish7sgf/EMI-Calculator)
-&gt; Simple and intuitive EMI calculator for monthly loan due calculations.
+> Simple and intuitive EMI calculator for monthly loan due calculations.
 
 ---
 
 ### 🤖 [AI-Powered Chat Bot](https://github.com/Manish7sgf/AI-Powered-Chat-Bot-)
-&gt; Fully offline chatbot using Gemma in llamafile.exe format with local API calls via Python.
+> Fully offline chatbot using Gemma in llamafile.exe format with local API calls via Python.
 
 ---
 
 ### 🎓 [Scholar-AI](https://github.com/Manish7sgf/Scholar-AI)
-&gt; AI tool designed to assist with research writing and academic content generation.
+> AI tool designed to assist with research writing and academic content generation.
 
 ---
 
 ## 📊 GitHub Stats
 
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;img src="https://github-readme-stats.vercel.app/api?username=Manish7sgf&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/&gt;
-&lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish7sgf&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/&gt;
+<img src="https://github-readme-stats.vercel.app/api?username=Manish7sgf&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish7sgf&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 
-&lt;br/&gt;
+<br/>
 
-&lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=Manish7sgf&theme=radical&hide_border=true" alt="GitHub Streak" width="70%"/&gt;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manish7sgf&theme=radical&hide_border=true" alt="GitHub Streak" width="70%"/>
 
-&lt;/div&gt;
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;img src="https://github-profile-trophy.vercel.app/?username=Manish7sgf&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" width="100%"/&gt;
+<img src="https://github-profile-trophy.vercel.app/?username=Manish7sgf&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" width="100%"/>
 
-&lt;/div&gt;
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=Manish7sgf&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%"/&gt;
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manish7sgf&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%"/>
 
-&lt;/div&gt;
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;img src="https://raw.githubusercontent.com/Manish7sgf/Manish7sgf/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /&gt;
+<img src="https://raw.githubusercontent.com/Manish7sgf/Manish7sgf/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
-&lt;/div&gt;
+</div>
 
 ---
 
 ## 📫 Let's Connect
 
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;a href="https://linkedin.com/in/manish-varman"&gt;
-  &lt;img src="https://img.shields.io/badge/LinkedIn-Manish%20Varman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/&gt;
-&lt;/a&gt;
-&lt;a href="https://portfolio-ten-kappa-52.vercel.app/"&gt;
-  &lt;img src="https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/&gt;
-&lt;/a&gt;
-&lt;a href="mailto:manishvarman5@gmail.com"&gt;
-  &lt;img src="https://img.shields.io/badge/Email-manishvarman5@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/&gt;
-&lt;/a&gt;
-&lt;a href="https://leetcode.com/u/whCG56F98e/"&gt;
-  &lt;img src="https://img.shields.io/badge/LeetCode-whCG56F98e-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/&gt;
-&lt;/a&gt;
+<a href="https://linkedin.com/in/manish-varman">
+  <img src="https://img.shields.io/badge/LinkedIn-Manish%20Varman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://portfolio-ten-kappa-52.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:manishvarman5@gmail.com">
+  <img src="https://img.shields.io/badge/Email-manishvarman5@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://leetcode.com/u/whCG56F98e/">
+  <img src="https://img.shields.io/badge/LeetCode-whCG56F98e-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
 
-&lt;/div&gt;
+</div>
 
 ---
 
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/&gt;
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120§ion=footer" width="100%"/>
 
 **⭐ Star my repos if you find them useful!**
 
 *Made with ❤️ by Manish Varman*
 
-&lt;/div&gt;
+</div>
