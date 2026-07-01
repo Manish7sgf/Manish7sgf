@@ -146,10 +146,10 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Manish7sgf&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Manish7sgf&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="180"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish7sgf&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish7sgf&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" height="180"/>
     </td>
   </tr>
 </table>
@@ -163,7 +163,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manish7sgf&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Manish7sgf&theme=radical&no-frame=true&column=7&cache_seconds=86400" alt="GitHub Trophies" width="100%"/>
 </div>
 
 ---
