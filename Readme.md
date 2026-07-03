@@ -219,7 +219,6 @@ I'm **Manish Varman**, an AI & Data Science Engineer with a passion for building
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80"/><br/>
       <b>🤖 Machine Learning</b><br/>
       Deep Learning, NLP, Computer Vision, Model Deployment
     </td>
