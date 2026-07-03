@@ -150,7 +150,6 @@ I'm **Manish Varman**, an AI & Data Science Engineer with a passion for building
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%"/>
       <h3>🌐 <a href="https://github.com/Manish7sgf/5G-NGN-Sentinel">5G-NGN-Sentinel</a></h3>
       <b>Network Monitoring</b>
       <p>Real-time 5G slice monitoring with security audits</p>
@@ -159,7 +158,6 @@ I'm **Manish Varman**, an AI & Data Science Engineer with a passion for building
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
     </td>
     <td width="50%">
-      <img src="https://media.giphy.com/media/4NNZD7qUHJqlEHFNT6/giphy.gif" width="100%"/>
       <h3>📸 <a href="https://github.com/Manish7sgf/Skytree-Services">Skytree Services</a></h3>
       <b>Multi-Service Platform</b>
       <p>Photo editor, resume builder & payment integration</p>
