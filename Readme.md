@@ -33,7 +33,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/manish-varman)](https://linkedin.com/in/manish-varman)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&link=https://leetcode.com/u/whCG56F98e/)](https://leetcode.com/u/whCG56F98e/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&link=https://portfolio-ten-kappa-52.vercel.app/)](https://portfolio-ten-kappa-52.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&link=https://manishvarman.vercel.app/)](https://manishvarman.vercel.app/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:manishvarman5@gmail.com)](mailto:manishvarman5@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Manish7sgf)](https://github.com/Manish7sgf)
 
@@ -250,7 +250,7 @@ I'm **Manish Varman**, an AI & Data Science Engineer with a passion for building
 ### 📫 Connect & Collaborate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manish%20Varman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-varman)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-ten-kappa-52.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://manishvarman.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-manishvarman5@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishvarman5@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-whCG56F98e-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/whCG56F98e/)
 [![GitHub](https://img.shields.io/badge/GitHub-Manish7sgf-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manish7sgf)
