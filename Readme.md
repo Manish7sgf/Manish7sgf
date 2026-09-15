@@ -22,10 +22,6 @@
 
 ## 🧠 About Me
 
-<div align="center">
-
-## 🧠 About Me
-
 </div>
 
 > **🤖 AI & Data Science Engineer** specializing in Healthcare AI & Deep Learning  
