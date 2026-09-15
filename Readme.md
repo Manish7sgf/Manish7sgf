@@ -22,24 +22,22 @@
 
 ## 🧠 About Me
 
+<div align="center">
+
+## 🧠 About Me
+
 </div>
 
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   🤖 AI & Data Science Engineer specialized in Healthcare & Deep Learning ║
-║   🌐 Full-Stack Systems Architect (FastAPI, NestJS, React, TypeScript)     ║
-║   📡 Exploring 5G/NGN Telemetry, Slicing Security & Real-Time Analytics  ║
-║   💡 Focused on shipping production-grade, highly scalable software      ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-
+> **🤖 AI & Data Science Engineer** specializing in Healthcare AI & Deep Learning  
+> **🌐 Full-Stack Systems Architect** building with FastAPI, NestJS, React & TypeScript  
+> **📡 Telecommunications & Cloud** researching 5G/6G slicing, telemetry & zero-trust patterns  
+> **💡 Engineering Philosophy:** Bridging deep learning research with high-throughput production infrastructure.
 
 I engineer resilient systems across **Clinical AI**, **Next-Gen Telecom (5G/6G)**, and **scalable web applications**, bridging the gap between deep learning models and high-throughput production services.
 
 * 🏥 **Clinical AI Focus:** Medical diagnostic computer vision (Grad-CAM) and clinical NLP (Bio_ClinicalBERT).
 * 🌐 **Full-Stack Breadth:** Enterprise-level backends in FastAPI and NestJS coupled with responsive React interfaces.
 * 📡 **Telecom & Cloud:** Network slice monitoring, real-time threat telemetry, and containerized deployments.
-
 ---
 
 <div align="center">
