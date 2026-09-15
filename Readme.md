@@ -131,24 +131,23 @@ I engineer resilient systems across **Clinical AI**, **Next-Gen Telecom (5G/6G)*
 <table width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/3o6ZtpgLSXb3xK1WYE/giphy.gif" width="130"/><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=Manish7sgf&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
+      <img src="https://media.giphy.com/media/3o6ZtpgLSXb3xK1WYE/giphy.gif" width="120"/><br/><br/>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Manish7sgf&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&cache_seconds=1800" width="100%"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/A7Qzt99jY7n5C/giphy.gif" width="130"/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish7sgf&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+      <img src="https://media.giphy.com/media/A7Qzt99jY7n5C/giphy.gif" width="120"/><br/><br/>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Manish7sgf&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%"/>
     </td>
   </tr>
 </table>
 
-### 📈 Contribution Stream
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manish7sgf&theme=react-dark&hide_border=true&area=true" width="100%"/>
+### 🔥 GitHub Streak & Performance
+<img src="https://streak-stats.demolab.com?user=Manish7sgf&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="100%"/>
 
 ### 🐍 Contribution Activity Snake
 <img src="https://raw.githubusercontent.com/Manish7sgf/Manish7sgf/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
-
 ---
 
 <div align="center">
