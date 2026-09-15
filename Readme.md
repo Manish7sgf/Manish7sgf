@@ -43,19 +43,19 @@ I engineer resilient systems across **Clinical AI**, **Next-Gen Telecom (5G/6G)*
 <table width="100%">
   <tr>
     <td align="center" width="25%">
-      <img src="https://media.giphy.com/media/RbDKaczqWovzqNtSV7/giphy.gif" width="55"/><br/>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python" height="40"/><br/>
       <b>AI & Data Science</b>
     </td>
     <td align="center" width="25%">
-      <img src="https://media.giphy.com/media/ukCFEU6Cg4daQYYc05/giphy.gif" width="55"/><br/>
+      <img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="40"/><br/>
       <b>Frontend</b>
     </td>
     <td align="center" width="25%">
-      <img src="https://media.giphy.com/media/IdyAQJVN2kVPnSsolm/giphy.gif" width="55"/><br/>
+      <img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs" height="40"/><br/>
       <b>Backend & APIs</b>
     </td>
     <td align="center" width="25%">
-      <img src="https://media.giphy.com/media/SY2uyCS9PCCKg/giphy.gif" width="55"/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres,docker,aws" height="40"/><br/>
       <b>Cloud & DevOps</b>
     </td>
   </tr>
